@@ -46,13 +46,5 @@ pip install numpy scikit-learn pandas matplotlib
 
 ## Visualizations
 
-- **Loss and Convergence Analysis:** Compare training loss over iterations.
-- **Feature Importance:** Examine which features are reduced by LASSO.
-- **Decision Boundaries:** Visual representation of classification regions.
-
-## Acknowledgments
-
-- Scikit-learn for machine learning implementations.
-- MNIST dataset for digit classification research.
-- Matplotlib for visualization.
+- Loss and Convergence Analysis: Compare training loss over iterations.
 
