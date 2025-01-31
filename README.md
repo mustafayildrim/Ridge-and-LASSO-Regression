@@ -21,17 +21,16 @@ Additionally, the project includes **LASSO for regression** using the **Boston H
 - Python
 - Scikit-learn
 - NumPy
+- Pandas
 - Matplotlib
 
 ## Installation
 
 ```bash
-pip install numpy scikit-learn matplotlib
+pip install numpy scikit-learn pandas matplotlib
 ```
 
 ## Dataset
-
-The project uses:
 
 - **MNIST dataset:** Extracting images corresponding to the digits **'7' and '9'** to perform binary classification.
 - **Boston Housing Dataset:** Evaluating LASSO with SGD and comparing it with linear regression for housing price prediction.
